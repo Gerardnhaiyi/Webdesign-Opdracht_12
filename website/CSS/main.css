@@ -1,0 +1,148 @@
+/*Headlines*/
+h1
+{
+  width: 270px;
+  color:gold;
+  background-color:midnightblue;
+}
+/*table cells*/
+#C01
+{
+  width: 200px;
+  text-align: center;
+  background-color:red;
+  color:darkblue;
+}
+
+#C02
+{
+  width: 200px;
+  text-align: center;
+  background-color:green;
+  color:darkblue;
+}
+
+#C03
+{
+  width: 200px;
+  text-align: center;
+  background-color:blue;
+  color:white;
+}
+
+#C04
+{
+  width: 200px;
+  text-align: center;
+  background-color:orange;
+  color:darkblue;
+}
+
+#C05
+{
+  width: 200px;
+  text-align: center;
+  background-color:rebeccapurple;
+  color:white;
+}
+
+#C06
+{
+  width: 200px;
+  text-align: center;
+  background-color:rosybrown;
+  color:darkblue;
+}
+
+#C07
+{
+  width: 200px;
+  text-align: center;
+  background-color:royalblue;
+  color:darkblue;
+}
+
+#C08
+{
+  width: 200px;
+  text-align: center;
+  background-color:gold;
+  color:darkblue;
+}
+
+#C09
+{
+  width: 200px;
+  text-align: center;
+  background-color:greenyellow;
+  color:darkblue;
+}
+
+#C10
+{
+  width: 200px;
+  text-align: center;
+  background-color:gray;
+  color:darkblue;
+}
+
+#C11
+{
+  width: 200px;
+  text-align: center;
+  background-color:goldenrod;
+  color:darkblue;
+}
+
+#C12
+{
+  width: 200px;
+  text-align: center;
+  background-color:lavender;
+  color:darkblue;
+}
+
+#C13
+{
+  width: 200px;
+  text-align: center;
+  background-color:lemonchiffon;
+  color:darkblue;
+}
+
+#C14
+{
+  width: 200px;
+  text-align: center;
+  background-color:chocolate;
+  color:darkblue;
+}
+
+#C15
+{
+  width: 200px;
+  text-align: center;
+  background-color:lightseagreen;
+  color:darkblue;
+}
+
+#C16
+{
+  width: 200px;
+  text-align: center;
+  background-color:lime;
+  color:darkblue;
+}
+
+
+/*Footer*/
+footer
+{
+  width: 300px; 
+  background-color:chocolate;
+  color:darkblue;
+}
+a:hover
+{
+  color: #05f4f0;
+}
